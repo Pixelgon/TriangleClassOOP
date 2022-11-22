@@ -1,0 +1,15 @@
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\bin\Debug\net7.0\TriangleV2.exe
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\bin\Debug\net7.0\TriangleV2.deps.json
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\bin\Debug\net7.0\TriangleV2.runtimeconfig.json
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\bin\Debug\net7.0\TriangleV2.dll
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\bin\Debug\net7.0\TriangleV2.pdb
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.csproj.AssemblyReference.cache
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.AssemblyInfoInputs.cache
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.AssemblyInfo.cs
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.csproj.CoreCompileInputs.cache
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.dll
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\refint\TriangleV2.dll
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.pdb
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\TriangleV2.genruntimeconfig.cache
+C:\Users\pixel\RiderProjects\TriangleV2\TriangleV2\obj\Debug\net7.0\ref\TriangleV2.dll
