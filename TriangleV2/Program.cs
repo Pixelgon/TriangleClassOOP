@@ -24,7 +24,7 @@ namespace Class
             Triangles tri1 = new Triangles(10, 10, 10);
             while (true)
             {
-                Console.WriteLine($"Váš trojuhelník ({ Triangles.GetEquilateral}) rovnostraný se stranami A: {tri1.A}, B: {tri1.B}, C: {tri1.C} a s úhly alfa: {tri1.Alfa}°, beta: {tri1.Beta}°, gamma: {tri1.Gamma}°");
+                Console.WriteLine($"Váš trojuhelník ({ tri1.GetEquilateral}) rovnostraný se stranami A: {tri1.A}, B: {tri1.B}, C: {tri1.C} a s úhly alfa: {tri1.Alfa}°, beta: {tri1.Beta}°, gamma: {tri1.Gamma}°");
                 Double? pick;
                 Console.WriteLine
                 (
